@@ -1,0 +1,11 @@
+image:
+  file: .gitpod.Dockerfile
+
+tasks:
+  - init: 'echo "TODO: Replace with init/build command"'
+    command: 'echo "TODO: Replace with command to start project"'
+
+vscode:
+  extensions:
+    - octref.vetur@0.28.0:bW1RGNnmWYQO43JdJgK34w==
+    - hollowtree.vue-snippets@0.1.12:R8kIKADMUL4rp+KMfYtsHg==
